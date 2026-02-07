@@ -1,7 +1,9 @@
 # Add search engine to Firefox
 Add manualy additional search engines to Firefox on desktop and mobile. 
+
 Supported Search Engines: 
-Startpage Startpage (Android) Startpage (Desktop)
+
+1. Startpage - Startpage (Android), Startpage (Desktop)
 
 
 # Add Startpage to Firefox on Android 
