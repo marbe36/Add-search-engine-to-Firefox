@@ -38,10 +38,27 @@ Search suggestion URL (optional): https://www.startpage.com/osuggestions?q=%s
 <img width="600" height="780" alt="image" src="https://github.com/user-attachments/assets/a0fdc573-f120-478d-8fff-15ea0525ce63" />
 
 # Add Startpage to Firefox on Desktop
-Firefox extension method
+## Firefox extension method
 [Guide on Startpage site](https://support.startpage.com/hc/en-us/articles/4480404660628-Make-Startpage-your-default-search-engine-in-Firefox)
 
-Manual method
+## Fast method
+1. Go to https://www.startpage.com.
+2. Right-click on Startpage link, and press on Add "Startpage Search".
+<img width="503" height="349" alt="image" src="https://github.com/user-attachments/assets/1cc21c28-94c3-4f0a-83f3-e0beedc56bb6" />
+
+3. Press the three vertical bars next to the URL bar.
+<img width="1378" height="1129" alt="image" src="https://github.com/user-attachments/assets/6b6505a7-6829-44a0-9fbc-50cd58f93789" />
+
+4. Press Settings.
+<img width="1283" height="1045" alt="image" src="https://github.com/user-attachments/assets/62a645c2-ef0f-4a61-9561-1fe68cda0daf" />
+
+5. Press Search.
+<img width="1284" height="1047" alt="image" src="https://github.com/user-attachments/assets/72c7569c-da6c-419c-8d88-d247309d5ce5" />
+
+6. Press on default search engine and choose Startpage as default search engine.
+<img width="249" height="353" alt="image" src="https://github.com/user-attachments/assets/93eff715-eeb3-4605-9e00-ba8264e8d29d" />
+
+## Manual method (for some search engines)
 1. Press the three vertical bars next to the URL bar.
 <img width="1378" height="1129" alt="image" src="https://github.com/user-attachments/assets/6b6505a7-6829-44a0-9fbc-50cd58f93789" />
 
