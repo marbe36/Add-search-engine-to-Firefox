@@ -4,7 +4,7 @@ Add manualy additional search engines to Firefox on desktop and mobile.
 Supported Search Engines: 
 
 1. Startpage - Startpage (Android), Startpage (Desktop)
-
+2. These methods can be used for any other Search Engine by replacing link to Search Engine: Kagi, Ecosia, DuckDuckGo, Brave, Baidu, Yandex and others.
 
 # Add Startpage to Firefox on Android 
 Make Startpage your default search engine on Firefox mobile (Android)
