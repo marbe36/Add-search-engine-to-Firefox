@@ -7,8 +7,10 @@ Supported Search Engines:
 
 
 # Add Startpage to Firefox on Android 
-Copied from: https://support.startpage.com/hc/en-us/articles/4520868432788-Make-Startpage-your-default-search-engine-on-Firefox-mobile-Android
 Make Startpage your default search engine on Firefox mobile (Android)
+
+Copied from: https://support.startpage.com/hc/en-us/articles/4520868432788-Make-Startpage-your-default-search-engine-on-Firefox-mobile-Android go to this website for more actual version
+
 
 1. Tap the three vertical dots next to the URL bar.
 <img width="480" height="2340" alt="image" src="https://github.com/user-attachments/assets/e8fed325-6433-4273-aaba-5ce6de46b1bb" />
