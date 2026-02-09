@@ -37,7 +37,7 @@ Search suggestion URL (optional): https://www.startpage.com/osuggestions?q=%s
 <img width="480" height="835" alt="image" src="https://github.com/user-attachments/assets/f26d94d5-8e06-41ce-b26a-7b44a2f04c62" />
 
 6.  Tap Startpage.
-<img width="600" height="780" alt="image" src="https://github.com/user-attachments/assets/a0fdc573-f120-478d-8fff-15ea0525ce63" />
+<img width="480" height="780" alt="image" src="https://github.com/user-attachments/assets/a0fdc573-f120-478d-8fff-15ea0525ce63" />
 
 # Add Startpage to Firefox on Desktop
 ## Firefox extension method
