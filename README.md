@@ -1,5 +1,5 @@
-# Add search engine to Firefox
-Add manualy additional search engines to Firefox on desktop and mobile. 
+# Add additional search engine to Firefox
+Add additional search engines to Firefox on desktop and mobile. Optionaly you also set them as default search engine.
 
 Supported Search Engines: 
 
